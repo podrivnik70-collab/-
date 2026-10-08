@@ -1,0 +1,15 @@
+# --- обязательные ---
+requests
+numpy
+psutil
+
+# --- движок локальных моделей ---
+# ставится через bootstrap с правильным индексом (CUDA/CPU)
+llama-cpp-python
+
+# --- фичи ---
+ddgs
+PyPDF2
+python-docx
+pandas
+openpyxl

@@ -1,0 +1,630 @@
+{
+  "updated": 1791485779.4113193,
+  "models": [
+    {
+      "repo_id": "unsloth/Qwen3.8-27B-GGUF",
+      "name": "Qwen3.8-27B",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 6518857
+    },
+    {
+      "repo_id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+      "name": "Qwen3-Coder-30B-A3B-Instruct",
+      "purpose": "Код",
+      "release_date": "2025-07",
+      "rating": 5.0,
+      "downloads": 6065516
+    },
+    {
+      "repo_id": "ornith-ai/Ornith-1.5-9B-GGUF",
+      "name": "Ornith-1.5-9B",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 5146756
+    },
+    {
+      "repo_id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "name": "Ternary-Bonsai-2-27B",
+      "purpose": "Общие",
+      "release_date": "2026-09",
+      "rating": 5.0,
+      "downloads": 4345410
+    },
+    {
+      "repo_id": "cdiamond/Qwen3.8-27B-iMatrix-NVFP4-MTP-GGUF",
+      "name": "Qwen3.8-27B-iMatrix-NVFP4-MTP",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 3788082
+    },
+    {
+      "repo_id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "name": "Ornith-1.5-35B-A3B",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 3678963
+    },
+    {
+      "repo_id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "name": "Qwen3.8-Flash-Next-GSQ-RCO",
+      "purpose": "Зрение",
+      "release_date": "2026-09",
+      "rating": 5.0,
+      "downloads": 3405442
+    },
+    {
+      "repo_id": "CMSManhattan/JiRackUltra_1b",
+      "name": "JiRackUltra_1b",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 2536181
+    },
+    {
+      "repo_id": "ornith-ai/Ornith-1.0-9B-GGUF",
+      "name": "Ornith-1.0-9B",
+      "purpose": "Общие",
+      "release_date": "2026-06",
+      "rating": 5.0,
+      "downloads": 2504971
+    },
+    {
+      "repo_id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "name": "Qwen3.8-27B-Uncensored",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 2363035
+    },
+    {
+      "repo_id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "name": "Huihui-Qwen3.8-27B-abliterated",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 2127462
+    },
+    {
+      "repo_id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "name": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP",
+      "purpose": "Зрение",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 2082141
+    },
+    {
+      "repo_id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "name": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP",
+      "purpose": "Код",
+      "release_date": "2026-09",
+      "rating": 5.0,
+      "downloads": 2037446
+    },
+    {
+      "repo_id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "name": "Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP",
+      "purpose": "Код",
+      "release_date": "2026-07",
+      "rating": 5.0,
+      "downloads": 2017052
+    },
+    {
+      "repo_id": "mixedbread-ai/mxbai-embed-large-v1",
+      "name": "mxbai-embed-large-v1",
+      "purpose": "Эмбеддинги (RAG)",
+      "release_date": "2024-03",
+      "rating": 5.0,
+      "downloads": 1977251
+    },
+    {
+      "repo_id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "name": "Qwen-Image-2.1-Uncensored",
+      "purpose": "Общие",
+      "release_date": "2026-09",
+      "rating": 5.0,
+      "downloads": 1933066
+    },
+    {
+      "repo_id": "handy-computer/nemotron-3.5-asr-streaming-0.6b-gguf",
+      "name": "nemotron-3.5-asr-streaming-0.6b",
+      "purpose": "Общие",
+      "release_date": "2026-06",
+      "rating": 5.0,
+      "downloads": 1896811
+    },
+    {
+      "repo_id": "ggml-org/Qwen3.8-27B-GGUF",
+      "name": "Qwen3.8-27B",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1877970
+    },
+    {
+      "repo_id": "mudler/Laguna-XS-2.1-APEX-GGUF",
+      "name": "Laguna-XS-2.1-APEX",
+      "purpose": "Код",
+      "release_date": "2026-07",
+      "rating": 5.0,
+      "downloads": 1816436
+    },
+    {
+      "repo_id": "handy-computer/parakeet-unified-en-0.6b-gguf",
+      "name": "parakeet-unified-en-0.6b",
+      "purpose": "Общие",
+      "release_date": "2026-05",
+      "rating": 5.0,
+      "downloads": 1775150
+    },
+    {
+      "repo_id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP",
+      "name": "Tiel-Coder-35B-A3B-GGUF-MTP",
+      "purpose": "Код",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1740208
+    },
+    {
+      "repo_id": "unsloth/MiniMax-H3-GGUF",
+      "name": "MiniMax-H3",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1704248
+    },
+    {
+      "repo_id": "antirez/deepseek-v4.1-flash-gguf",
+      "name": "deepseek-v4.1-flash",
+      "purpose": "Общие",
+      "release_date": "2026-09",
+      "rating": 5.0,
+      "downloads": 1665496
+    },
+    {
+      "repo_id": "Serveurperso/YuE2-GGUF",
+      "name": "YuE2",
+      "purpose": "Общие",
+      "release_date": "2026-09",
+      "rating": 5.0,
+      "downloads": 1650486
+    },
+    {
+      "repo_id": "ornith-ai/Ornith-1.0-35B-GGUF",
+      "name": "Ornith-1.0-35B",
+      "purpose": "Общие",
+      "release_date": "2026-06",
+      "rating": 5.0,
+      "downloads": 1632866
+    },
+    {
+      "repo_id": "unsloth/gemma-4-12b-it-GGUF",
+      "name": "gemma-4-12b-it",
+      "purpose": "Общие",
+      "release_date": "2026-05",
+      "rating": 5.0,
+      "downloads": 1623148
+    },
+    {
+      "repo_id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "name": "Qwen3.8-27B-GSQ-RCO",
+      "purpose": "Зрение",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1517150
+    },
+    {
+      "repo_id": "peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF",
+      "name": "Dirk-Qwen3.8-27B",
+      "purpose": "Зрение",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1463045
+    },
+    {
+      "repo_id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "name": "Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "purpose": "Зрение",
+      "release_date": "2026-04",
+      "rating": 5.0,
+      "downloads": 1441372
+    },
+    {
+      "repo_id": "mradermacher/Ornith-1.5-9B-uncensored-GGUF",
+      "name": "Ornith-1.5-9B-uncensored",
+      "purpose": "Зрение",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1339603
+    },
+    {
+      "repo_id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "name": "Qwen3.8-Flash-Next",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1315187
+    },
+    {
+      "repo_id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1305937
+    },
+    {
+      "repo_id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "name": "Qwen3.6-35B-A3B",
+      "purpose": "Общие",
+      "release_date": "2026-04",
+      "rating": 5.0,
+      "downloads": 1302988
+    },
+    {
+      "repo_id": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "name": "nemotron-3.5-asr-streaming-0.6b",
+      "purpose": "Общие",
+      "release_date": "2026-05",
+      "rating": 5.0,
+      "downloads": 1289845
+    },
+    {
+      "repo_id": "antirez/deepseek-v4-gguf",
+      "name": "deepseek-v4",
+      "purpose": "Общие",
+      "release_date": "2026-04",
+      "rating": 5.0,
+      "downloads": 1253589
+    },
+    {
+      "repo_id": "lmstudio-community/Qwen3.8-27B-GGUF",
+      "name": "Qwen3.8-27B",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1223922
+    },
+    {
+      "repo_id": "ornith-ai/Ornith-1.5-397B-GGUF",
+      "name": "Ornith-1.5-397B",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1214175
+    },
+    {
+      "repo_id": "unsloth/Qwen3.5-9B-GGUF",
+      "name": "Qwen3.5-9B",
+      "purpose": "Общие",
+      "release_date": "2026-02",
+      "rating": 5.0,
+      "downloads": 1192017
+    },
+    {
+      "repo_id": "unsloth/Qwen3.5-4B-GGUF",
+      "name": "Qwen3.5-4B",
+      "purpose": "Общие",
+      "release_date": "2026-03",
+      "rating": 5.0,
+      "downloads": 1148580
+    },
+    {
+      "repo_id": "byteshape/Qwen3.8-27B-GGUF",
+      "name": "Qwen3.8-27B",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1103798
+    },
+    {
+      "repo_id": "rippertnt/HyperCLOVAX-SEED-Text-Instruct-1.5B-Q4_K_M-GGUF",
+      "name": "HyperCLOVAX-SEED-Text-Instruct-1.5B-Q4_K_M",
+      "purpose": "Общие",
+      "release_date": "2025-04",
+      "rating": 5.0,
+      "downloads": 1083445
+    },
+    {
+      "repo_id": "handy-computer/cohere-transcribe-03-2026-gguf",
+      "name": "cohere-transcribe-03-2026",
+      "purpose": "Код",
+      "release_date": "2026-04",
+      "rating": 5.0,
+      "downloads": 1045122
+    },
+    {
+      "repo_id": "unsloth/GLM-5.3-Flash-GGUF",
+      "name": "GLM-5.3-Flash",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1028405
+    },
+    {
+      "repo_id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "name": "Qwen3.6-35B-A3B-MTP",
+      "purpose": "Общие",
+      "release_date": "2026-05",
+      "rating": 5.0,
+      "downloads": 1026448
+    },
+    {
+      "repo_id": "LiquidAI/LFM2.5-2.6B-GGUF",
+      "name": "LFM2.5-2.6B",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 1011368
+    },
+    {
+      "repo_id": "unsloth/Z-Image-Turbo-GGUF",
+      "name": "Z-Image-Turbo",
+      "purpose": "Общие",
+      "release_date": "2025-12",
+      "rating": 5.0,
+      "downloads": 900218
+    },
+    {
+      "repo_id": "unsloth/Qwen3.5-35B-A3B-GGUF",
+      "name": "Qwen3.5-35B-A3B",
+      "purpose": "Общие",
+      "release_date": "2026-02",
+      "rating": 5.0,
+      "downloads": 900215
+    },
+    {
+      "repo_id": "unsloth/Inkling-Small-GGUF",
+      "name": "Inkling-Small",
+      "purpose": "Рассуждения",
+      "release_date": "2026-07",
+      "rating": 5.0,
+      "downloads": 871123
+    },
+    {
+      "repo_id": "bartowski/endless-frontier_BigBang-v1-GGUF",
+      "name": "endless-frontier_BigBang-v1",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 5.0,
+      "downloads": 862442
+    },
+    {
+      "repo_id": "unsloth/Qwen-Image-2.1-GGUF",
+      "name": "Qwen-Image-2.1",
+      "purpose": "Общие",
+      "release_date": "2026-09",
+      "rating": 5.0,
+      "downloads": 805462
+    },
+    {
+      "repo_id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "name": "gemma-4-12B-it-qat-q4_0",
+      "purpose": "Общие",
+      "release_date": "2026-06",
+      "rating": 5.0,
+      "downloads": 780419
+    },
+    {
+      "repo_id": "google/gemma-4-E4B-it-qat-q4_0-gguf",
+      "name": "gemma-4-E4B-it-qat-q4_0",
+      "purpose": "Общие",
+      "release_date": "2026-05",
+      "rating": 5.0,
+      "downloads": 729494
+    },
+    {
+      "repo_id": "unsloth/Qwen3.6-27B-GGUF",
+      "name": "Qwen3.6-27B",
+      "purpose": "Общие",
+      "release_date": "2026-04",
+      "rating": 5.0,
+      "downloads": 675368
+    },
+    {
+      "repo_id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "name": "Qwen3.6-27B-MTP",
+      "purpose": "Общие",
+      "release_date": "2026-05",
+      "rating": 5.0,
+      "downloads": 665572
+    },
+    {
+      "repo_id": "bartowski/Qwen2.5-32B-Instruct-GGUF",
+      "name": "Qwen2.5-32B-Instruct",
+      "purpose": "Общие",
+      "release_date": "2024-09",
+      "rating": 5.0,
+      "downloads": 625819
+    },
+    {
+      "repo_id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
+      "name": "Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
+      "purpose": "Зрение",
+      "release_date": "2026-06",
+      "rating": 4.8,
+      "downloads": 984259
+    },
+    {
+      "repo_id": "mudler/KAT-Coder-V2.5-Dev-APEX-GGUF",
+      "name": "KAT-Coder-V2.5-Dev-APEX",
+      "purpose": "Код",
+      "release_date": "2026-07",
+      "rating": 4.8,
+      "downloads": 974290
+    },
+    {
+      "repo_id": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+      "name": "VieNeu-TTS-v3-Turbo",
+      "purpose": "Общие",
+      "release_date": "2026-06",
+      "rating": 4.8,
+      "downloads": 932694
+    },
+    {
+      "repo_id": "CMSManhattan/JiRackUltra_14b",
+      "name": "JiRackUltra_14b",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 4.8,
+      "downloads": 908265
+    },
+    {
+      "repo_id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "purpose": "Зрение",
+      "release_date": "2026-04",
+      "rating": 4.8,
+      "downloads": 861927
+    },
+    {
+      "repo_id": "esatapedico/Qwen3.8-27B-NVFP4-MTP-GGUF",
+      "name": "Qwen3.8-27B-NVFP4-MTP",
+      "purpose": "Зрение",
+      "release_date": "2026-08",
+      "rating": 4.8,
+      "downloads": 752893
+    },
+    {
+      "repo_id": "DeepBeepMeep/Wan2.1",
+      "name": "Wan2.1",
+      "purpose": "Общие",
+      "release_date": "2025-02",
+      "rating": 4.8,
+      "downloads": 743178
+    },
+    {
+      "repo_id": "AtomicChat/Qwen3.8-Flash-Next-GGUF",
+      "name": "Qwen3.8-Flash-Next",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 4.8,
+      "downloads": 735633
+    },
+    {
+      "repo_id": "meta-models/Muse-Glimmer-30B-GGUF",
+      "name": "Muse-Glimmer-30B",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 4.8,
+      "downloads": 729946
+    },
+    {
+      "repo_id": "Serveurperso/ACE-Step-1.5-GGUF",
+      "name": "ACE-Step-1.5",
+      "purpose": "Общие",
+      "release_date": "2026-02",
+      "rating": 4.8,
+      "downloads": 726528
+    },
+    {
+      "repo_id": "datalab-to/surya-ocr-2-gguf",
+      "name": "surya-ocr-2",
+      "purpose": "Общие",
+      "release_date": "2026-05",
+      "rating": 4.8,
+      "downloads": 721446
+    },
+    {
+      "repo_id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "name": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "purpose": "Общие",
+      "release_date": "2026-03",
+      "rating": 4.8,
+      "downloads": 717972
+    },
+    {
+      "repo_id": "empero-ai/Qwen3.8-35B-A3B-Distill-GGUF",
+      "name": "Qwen3.8-35B-A3B-Distill",
+      "purpose": "Рассуждения",
+      "release_date": "2026-09",
+      "rating": 4.8,
+      "downloads": 717443
+    },
+    {
+      "repo_id": "ggml-org/gemma-4-E4B-it-GGUF",
+      "name": "gemma-4-E4B-it",
+      "purpose": "Общие",
+      "release_date": "2026-04",
+      "rating": 4.8,
+      "downloads": 697603
+    },
+    {
+      "repo_id": "Serveurperso/MiniMax-Music3-GGUF",
+      "name": "MiniMax-Music3",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 4.8,
+      "downloads": 672873
+    },
+    {
+      "repo_id": "mradermacher/Qwen3-VL-8B-Instruct-abliterated-GGUF",
+      "name": "Qwen3-VL-8B-Instruct-abliterated",
+      "purpose": "Зрение",
+      "release_date": "2025-11",
+      "rating": 4.8,
+      "downloads": 672515
+    },
+    {
+      "repo_id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "purpose": "Общие",
+      "release_date": "2026-08",
+      "rating": 4.8,
+      "downloads": 665454
+    },
+    {
+      "repo_id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "name": "gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2",
+      "purpose": "Рассуждения",
+      "release_date": "2026-06",
+      "rating": 4.8,
+      "downloads": 639598
+    },
+    {
+      "repo_id": "empero-ai/Qwen3.8-9B-Distill-GGUF",
+      "name": "Qwen3.8-9B-Distill",
+      "purpose": "Рассуждения",
+      "release_date": "2026-08",
+      "rating": 4.8,
+      "downloads": 625304
+    },
+    {
+      "repo_id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO",
+      "purpose": "Рассуждения",
+      "release_date": "2026-09",
+      "rating": 4.8,
+      "downloads": 620314
+    },
+    {
+      "repo_id": "handy-computer/parakeet-tdt-0.6b-v3-gguf",
+      "name": "parakeet-tdt-0.6b-v3",
+      "purpose": "Общие",
+      "release_date": "2026-04",
+      "rating": 4.8,
+      "downloads": 618932
+    },
+    {
+      "repo_id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "name": "Qwen3.8-Flash-Next-GSQ-RCO-abliterated",
+      "purpose": "Рассуждения",
+      "release_date": "2026-10",
+      "rating": 4.8,
+      "downloads": 612411
+    },
+    {
+      "repo_id": "dealignai/Ornith-1.5-9B-UNCENSORED-GGUF",
+      "name": "Ornith-1.5-9B-UNCENSORED",
+      "purpose": "Рассуждения",
+      "release_date": "2026-08",
+      "rating": 4.8,
+      "downloads": 611115
+    }
+  ],
+  "endpoint": "https://huggingface.co"
+}

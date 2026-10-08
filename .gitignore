@@ -1,0 +1,22 @@
+﻿# Модели и большие бинарники
+models/
+*.gguf
+*.bin
+*.safetensors
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Логи и данные
+logs/
+data/*.log
+*.log
+
+# Временные скрипты диагностики
+_structure.txt
+_*.py
+
+# ZIP-архивы
+*.zip

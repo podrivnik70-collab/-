@@ -1,0 +1,23 @@
+{
+  "profile_key": "code",
+  "planner_model": "Qwen3.8-27B",
+  "coder_model": "Qwen2.5-Coder-7B-Instruct",
+  "judge_junior_model": "Qwen2.5-Coder-7B-Instruct",
+  "judge_senior_model": "Qwen2.5-Coder-7B-Instruct",
+  "chat_model": "Qwen2.5-Coder-7B-Instruct",
+  "attempts": 5,
+  "max_chunks": 5,
+  "validate": true,
+  "chunking": true,
+  "autotest": false,
+  "autoreadme": true,
+  "rag": true,
+  "task_web": false,
+  "chat_rag": true,
+  "chat_docs": false,
+  "chat_web": true,
+  "max_tokens": 4096,
+  "temperature": 0.3,
+  "context_length": 8192,
+  "workspace": "C:\\Users\\Домашние\\Desktop\\Сапфира\\Сапфира версия 2\\workspace"
+}

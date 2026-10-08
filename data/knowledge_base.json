@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "task": "Создай калькулятор: utils.py с add/sub/mul/div",
+      "filename": "utils.py",
+      "code": "def add(a, b):\n    return a + b\n\ndef sub(a, b):\n    return a - b",
+      "verdict": "OK",
+      "score": 0.85,
+      "time": "2026-10-07 23:03:16",
+      "keywords": [
+        "калькулятор",
+        "utils"
+      ]
+    },
+    {
+      "task": "Напиши парсер CSV с фильтрацией",
+      "filename": "parser.py",
+      "code": "import csv\n\ndef parse(path):\n    with open(path) as f:\n        return list(csv.DictReader(f))",
+      "verdict": "OK",
+      "score": 0.9,
+      "time": "2026-10-07 23:03:16",
+      "keywords": [
+        "фильтрацией",
+        "парсер",
+        "parser"
+      ]
+    },
+    {
+      "task": "Telegram-бот на Python",
+      "filename": "bot.py",
+      "code": "from telegram import Update\nfrom telegram.ext import ApplicationBuilder",
+      "verdict": "OK",
+      "score": 0.8,
+      "time": "2026-10-07 23:03:16",
+      "keywords": [
+        "python",
+        "telegram"
+      ]
+    },
+    {
+      "task": "Создай файл hello.py с print('Привет, мир!')",
+      "filename": "hello.py",
+      "code": "print('Привет, мир!')",
+      "verdict": "OK",
+      "score": 0.0,
+      "time": "2026-10-07 23:41:27",
+      "keywords": [
+        "привет",
+        "print",
+        "hello"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "installed": [
+    {
+      "repo_id": "nomic-ai/nomic-embed-text-v1.5-GGUF",
+      "name": "nomic-embed-text-v1.5",
+      "filename": "nomic-embed-text-v1.5.Q4_K_M.gguf",
+      "purpose": "Эмбеддинги (RAG)",
+      "installed_at": 1791397591.6295855
+    },
+    {
+      "repo_id": "bartowski/Qwen2.5-Coder-7B-Instruct-GGUF",
+      "name": "Qwen2.5-Coder-7B-Instruct",
+      "filename": "Qwen2.5-Coder-7B-Instruct-Q4_K_M.gguf",
+      "purpose": "Код",
+      "installed_at": 1791401202.5314326
+    },
+    {
+      "repo_id": "unsloth/Qwen3.8-27B-GGUF",
+      "name": "Qwen3.8-27B",
+      "filename": "Qwen3.8-27B-UD-Q4_K_M.gguf",
+      "purpose": "Общие",
+      "installed_at": 1791408180.6531248,
+      "split_parts": null
+    },
+    {
+      "repo_id": "unsloth/Qwen3.5-9B-GGUF",
+      "name": "Qwen3.5-9B",
+      "filename": "Qwen3.5-9B-Q4_K_M.gguf",
+      "purpose": "Общие",
+      "installed_at": 1791410739.8237805,
+      "split_parts": null
+    },
+    {
+      "repo_id": "bartowski/Qwen2.5-Coder-14B-Instruct-GGUF",
+      "name": "Qwen2.5-Coder-14B-Instruct",
+      "filename": "Qwen2.5-Coder-14B-Instruct-Q4_K_M.gguf",
+      "purpose": "Код",
+      "installed_at": 1791494445.5803995,
+      "split_parts": null
+    }
+  ]
+}
